@@ -1,32 +1,20 @@
-<h1 align="center">Technical education since 1947.</h1>
+<img src="https://avatars.githubusercontent.com/u/260975494?s=320&v=4" width="120" height="120" alt="GBN Govt. Polytechnic" />
 
-<p align="center">
-  <a href="http://gpnilokheri.ac.in/">
-    <img src="https://avatars.githubusercontent.com/u/260975494?s=320&v=4" width="140" height="140" alt="GBN Govt. Polytechnic" />
-  </a>
-</p>
+# GBN. Govt Polytechnic
 
-<p align="center">
-  <strong>Guru BrahmaNand Ji Govt. Polytechnic</strong> · Nilokheri, Karnal, Haryana<br />
-  Official GitHub home of the institute's software: the website, the library system, and the tools we build next.
-</p>
+**Guru BrahmaNand Ji Govt. Polytechnic** · Nilokheri, Karnal, Haryana, India
 
-<p align="center">
-  <a href="http://gpnilokheri.ac.in/">Website</a> ·
-  <a href="https://gpnilokheri.ac.in/academics/courses">Courses</a> ·
-  <a href="https://gpnilokheri.ac.in/admissions">Admissions</a> ·
-  <a href="https://gpnilokheri.ac.in/news">News</a>
-</p>
+Official GitHub home of the institute's software: the website, the library system, and the tools we build next.
 
-<p align="center">
-  <img alt="Website" src="https://img.shields.io/badge/Website-gpnilokheri.ac.in-2563EB?logo=googlechrome&logoColor=white" />
-  <img alt="Established 1947" src="https://img.shields.io/badge/Est.-1947-1E3A8A" />
-  <img alt="600+ students" src="https://img.shields.io/badge/Students-600%2B-1E3A8A" />
-  <img alt="Seven diploma programmes" src="https://img.shields.io/badge/Programmes-7-1E3A8A" />
-  <img alt="AICTE approved" src="https://img.shields.io/badge/AICTE-Approved-1E3A8A" />
-  <img alt="HSBTE affiliated" src="https://img.shields.io/badge/HSBTE-Affiliated-1E3A8A" />
-  <img alt="Nilokheri, Karnal, Haryana" src="https://img.shields.io/badge/Nilokheri%2C_Karnal-Haryana%2C_India-1E3A8A?logo=googlemaps&logoColor=white" />
-</p>
+[Website](http://gpnilokheri.ac.in/) · [Courses](https://gpnilokheri.ac.in/academics/courses) · [Admissions](https://gpnilokheri.ac.in/admissions) · [News](https://gpnilokheri.ac.in/news)
+
+<img alt="Website" src="https://img.shields.io/badge/Website-gpnilokheri.ac.in-2563EB?logo=googlechrome&logoColor=white" />
+<img alt="Established 1947" src="https://img.shields.io/badge/Est.-1947-1E3A8A" />
+<img alt="600+ students" src="https://img.shields.io/badge/Students-600%2B-1E3A8A" />
+<img alt="Seven diploma programmes" src="https://img.shields.io/badge/Programmes-7-1E3A8A" />
+<img alt="AICTE approved" src="https://img.shields.io/badge/AICTE-Approved-1E3A8A" />
+<img alt="HSBTE affiliated" src="https://img.shields.io/badge/HSBTE-Affiliated-1E3A8A" />
+<img alt="Nilokheri, Karnal, Haryana" src="https://img.shields.io/badge/Nilokheri%2C_Karnal-Haryana%2C_India-1E3A8A?logo=googlemaps&logoColor=white" />
 
 ## Welcome
 
@@ -79,7 +67,4 @@ Anything code related: reach the project lead, Gurkirat Singh.
 - **Website**: [gurkiratsingh.tech](https://gurkiratsingh.tech)
 - **Email**: [hello@gurkiratsingh.tech](mailto:hello@gurkiratsingh.tech)
 
-<p align="center">
-  <a href="https://github.com/orgs/GBN-Govt-Polytechnic/repositories">Browse repositories</a> ·
-  <a href="http://gpnilokheri.ac.in/">Visit the website</a>
-</p>
+[Browse repositories](https://github.com/orgs/GBN-Govt-Polytechnic/repositories) · [Visit the website](http://gpnilokheri.ac.in/)
