@@ -1,16 +1,25 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260975494?s=320&v=4" width="160" height="160" alt="GBN Govt. Polytechnic" />
-</p>
-
-# <p align="center">GBN. Govt Polytechnic</p>
+<h1 align="center">Technical education since 1947.</h1>
 
 <p align="center">
-  Guru BrahmaNand Ji Govt. Polytechnic, Nilokheri<br />
-  Official GitHub organization of the institute
+  <a href="http://gpnilokheri.ac.in/">
+    <img src="https://avatars.githubusercontent.com/u/260975494?s=320&v=4" width="140" height="140" alt="GBN Govt. Polytechnic" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="http://gpnilokheri.ac.in/"><img alt="Website" src="https://img.shields.io/badge/Website-gpnilokheri.ac.in-2563EB?logo=googlechrome&logoColor=white" /></a>
+  <strong>Guru BrahmaNand Ji Govt. Polytechnic</strong> · Nilokheri, Karnal, Haryana<br />
+  Official GitHub home of the institute's software: the website, the library system, and the tools we build next.
+</p>
+
+<p align="center">
+  <a href="http://gpnilokheri.ac.in/">Website</a> ·
+  <a href="https://gpnilokheri.ac.in/academics/courses">Courses</a> ·
+  <a href="https://gpnilokheri.ac.in/admissions">Admissions</a> ·
+  <a href="https://gpnilokheri.ac.in/news">News</a>
+</p>
+
+<p align="center">
+  <img alt="Website" src="https://img.shields.io/badge/Website-gpnilokheri.ac.in-2563EB?logo=googlechrome&logoColor=white" />
   <img alt="Established 1947" src="https://img.shields.io/badge/Est.-1947-1E3A8A" />
   <img alt="600+ students" src="https://img.shields.io/badge/Students-600%2B-1E3A8A" />
   <img alt="Seven diploma programmes" src="https://img.shields.io/badge/Programmes-7-1E3A8A" />
@@ -23,7 +32,7 @@
 
 GBN Govt. Polytechnic is one of the premier technical institutions in the country and the first polytechnic set up in North India. It was established by the Govt. of India in 1947, began as the Govt. School of Engineering in Rasool (West Punjab), and moved to Nilokheri after partition in 1951.
 
-Today the institute serves 600+ diploma students across seven programmes on a 26-acre campus on GT Road, and this organization is home to the software behind it: the college website, the library system, and the tools we build next.
+Today the institute serves 600+ diploma students across seven programmes on a 26-acre campus on GT Road, and this organization is home to the software behind it.
 
 - **Motto**: Provide Technical Education to All
 - **Branches**: Computer · Civil · Electrical · Electronics & Communication · Mechanical · Instrumentation & Control · Mechatronics
@@ -69,3 +78,8 @@ Anything code related: reach the project lead, Gurkirat Singh.
 - **GitHub**: [@Gurkirat-Singh-bit](https://github.com/Gurkirat-Singh-bit)
 - **Website**: [gurkiratsingh.tech](https://gurkiratsingh.tech)
 - **Email**: [hello@gurkiratsingh.tech](mailto:hello@gurkiratsingh.tech)
+
+<p align="center">
+  <a href="https://github.com/orgs/GBN-Govt-Polytechnic/repositories">Browse repositories</a> ·
+  <a href="http://gpnilokheri.ac.in/">Visit the website</a>
+</p>
