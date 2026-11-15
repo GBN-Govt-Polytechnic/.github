@@ -41,11 +41,13 @@ No contribution is too small. If you're learning, this is a real codebase used b
 
 ## <img src="assets/people.svg" width="18" height="18" alt="People" /> Contributors
 
-<a href="https://github.com/Gurkirat-Singh-bit">
-  <img src="https://avatars.githubusercontent.com/u/186452038?s=160&v=4" width="80" height="80" alt="Gurkirat Singh" />
-</a>
+<a href="https://github.com/Gurkirat-Singh-bit"><img src="https://avatars.githubusercontent.com/u/186452038?s=160&v=4" width="72" height="72" alt="Gurkirat Singh" /></a>
+<a href="https://github.com/Powerisvansh"><img src="https://avatars.githubusercontent.com/u/168438834?s=160&v=4" width="72" height="72" alt="Vansh" /></a>
+<a href="https://github.com/mayank01-tech"><img src="https://avatars.githubusercontent.com/u/280908769?s=160&v=4" width="72" height="72" alt="mayank" /></a>
+<a href="https://github.com/Aryan-261008"><img src="https://avatars.githubusercontent.com/u/301637100?s=160&v=4" width="72" height="72" alt="Aryan kumar" /></a>
 
 **Gurkirat Singh** — Project Lead
+**Vansh** · **mayank** · **Aryan kumar** — Contributors
 
 *This list grows as the organization grows. Want your icon here? Contribute!*
 
